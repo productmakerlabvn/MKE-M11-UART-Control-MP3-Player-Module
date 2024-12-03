@@ -118,9 +118,11 @@ Mạch phát âm thanh MKE-M11 UART control MP3 Player module thuộc hệ sinh 
 [Hướng dẫn nạp chương trình, cài đặt Extension Micro:bit cơ bản.](https://github.com/makerlabvn/MakeCode-microbit)
 
 - Khởi động phần mềm MakeCode tại: [https://makecode.microbit.org/](https://makecode.microbit.org/)
-- Chọn My Projects / Import / Import URL theo đường link của chương trình mẫu: [https://github.com/devmakerlabvn/makecode-mke-s01-ultrasonic-distance-sensor](https://github.com/devmakerlabvn/makecode-mke-s01-ultrasonic-distance-sensor)
+- Chọn My Projects / Import / Import URL theo đường link của chương trình mẫu:
+
+      https://github.com/devmakerlabvn/makecode-mke-m11-uart-control-mp3-player-module
 - Kết nối Micro:bit với máy tính và nạp chương trình.
-- Kết nối mạch Micro:bit với MakerEdu Shield, và màn hình LCD vào cổng [I2C] trên MakerEdu Shield, **cấp nguồn qua cổng USB của MakerEdu Shield** để thấy chương trình hoạt động.
+- Kết nối mạch Micro:bit với MakerEdu Shield, kết nối moulde DFplayer mini MKE-M11 vào chân [P2+P8], màn hình LCD vào cổng [I2C] trên MakerEdu Shield, **cấp nguồn qua cổng USB của MakerEdu Shield** để thấy chương trình hoạt động.
 
 ## Hỗ trợ và liên hệ
 
